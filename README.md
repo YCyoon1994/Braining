@@ -1,4 +1,9 @@
 # Braining
 Recognizing tools by web
 
-this project made by Fillin team in SNU.
+this project made by Psycho group.
+
+
+Contact
+- Yoonta
+- Youngs
