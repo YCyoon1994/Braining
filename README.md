@@ -36,8 +36,8 @@ Try youselves on directory named [samples](https://github.com)
 
 this project made by Psycho group.
 
-- [Yoonta](withtogether.co.kr) - the best streamer in the YOUTUBE , and streaming for ICO Coin.
-- [Youngs](withtogether.co.kr) - super high technology with emotion for the social.
+- [Yoonta](http://withtogether.co.kr) - the best streamer in the YOUTUBE , and streaming for ICO Coin.
+- [Youngs](http://withtogether.co.kr) - super high technology with emotion for the social.
 
 ## License
 
